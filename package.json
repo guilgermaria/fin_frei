@@ -1,0 +1,16 @@
+{
+  "name": "finfrei",
+  "version": "1.0.0",
+  "description": "Projeto criado tendo em mente as necessidades financeiras dos usuários, visando solucionar seus problemas da melhor forma possível",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
